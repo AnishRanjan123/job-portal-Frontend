@@ -34,7 +34,7 @@ const SearchBar = () => {
         <div className="flex text-sm  justify-between">
           <div>Salary</div>
           <div>
-            &#8377;{value[0]} LPA - &#8377;{value[1]} LPA
+            &#8377;{value[0]} lpa - &#8377;{value[1]} LPA
           </div>
         </div>
         <RangeSlider
