@@ -1,10 +1,10 @@
 import { Divider } from "@mantine/core";
 
 import { useState } from "react";
-import Jobs from "../FindJobs/Jobs";
-import SearchBar from "../FindTalent/SearchBar";
-import TalentCard from "../FindTalent/TalentCard";
-import Talents from "../FindTalent/Talent";
+import Jobs from "../components/FindJobs/Jobs";
+import SearchBar from "../components/FindTalent/SearchBar";
+import TalentCard from "../components/FindTalent/TalentCard";
+import Talents from "../components/FindTalent/Talent";
 
 const FindTalentPage = () => {
   return (

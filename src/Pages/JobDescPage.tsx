@@ -1,8 +1,8 @@
 import { Button, Divider } from "@mantine/core";
 import { IconArrowLeft } from "@tabler/icons-react";
 import { Link } from "react-router-dom";
-import JobDesc from "../JobDesc/JobDesc";
-import RecommendedJob from "../JobDesc/RecommendedJob";
+import JobDesc from "../components/JobDesc/JobDesc";
+import RecommendedJob from "../components/JobDesc/RecommendedJob";
 
 const JobDescPage = () => {
   return (

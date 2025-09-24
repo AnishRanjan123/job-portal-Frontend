@@ -1,7 +1,7 @@
 import { Divider } from "@mantine/core";
 import { IconHandStop } from "@tabler/icons-react";
-import SignUp from "../SignUpLogin/SignUp";
-import Login from "../SignUpLogin/Login";
+import SignUp from "../components/SignUpLogin/SignUp";
+import Login from "../components/SignUpLogin/Login";
 import { useLocation } from "react-router-dom";
 
 const SignUpPage = () => {

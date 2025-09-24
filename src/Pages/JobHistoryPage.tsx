@@ -1,5 +1,5 @@
 import { Divider } from "@mantine/core";
-import JobHistory from "../JobHistory/JobHistory";
+import JobHistory from "../components/JobHistory/JobHistory";
 
 const JobHistoryPage = () => {
   return (

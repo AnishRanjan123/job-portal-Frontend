@@ -1,6 +1,6 @@
 import { Divider } from "@mantine/core";
-import PostJob from "../PostJob/PostJob";
-import PostedJob from "../PostedJob/PostedJob";
+import PostJob from "../components/PostJob/PostJob";
+import PostedJob from "../components/PostedJob/PostedJob";
 const PostJobPage = () => {
   return (
     <div className="min-h-[100vh] bg-mine-shaft-950 font-['poppins'] p-4">

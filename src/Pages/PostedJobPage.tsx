@@ -1,8 +1,8 @@
 import { Divider } from "@mantine/core";
 import React from "react";
-import Company from "../CompanyProfile/Company";
-import PostedJob from "../PostedJob/PostedJob";
-import PostedJobDesc from "../PostedJob/PostedJobDesc";
+import Company from "../components/CompanyProfile/Company";
+import PostedJob from "../components/PostedJob/PostedJob";
+import PostedJobDesc from "../components/PostedJob/PostedJobDesc";
 
 const PostedJobPage = () => {
   return (

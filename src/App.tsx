@@ -8,8 +8,8 @@ import "@mantine/tiptap/styles.css";
 import HomePage from "./Pages/HomePage";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import FindJobs from "./Pages/FindJobs";
-import Header from "./Header/Header";
-import Footer from "./Footer/Footer";
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
 import "@mantine/core/styles.css";
 // ‼️ import dates styles after core package styles
 import "@mantine/dates/styles.css";
